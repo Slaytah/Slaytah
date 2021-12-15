@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Slaytah
 - 👀 I’m interested in ... Music, Atari ST, MIDI and other communication protocols.
-- 🌱 I’m currently learning ... How much I don't know
+- 🌱 I’m currently learning ... How much I don't know.
 - 💞️ I’m looking to collaborate on ...Music, probably, ST stuff too.
 - 📫 How to reach me ...I'm in the book
 
